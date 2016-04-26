@@ -1,0 +1,18 @@
+<html>
+<head>
+<style type="text/css">
+p 
+{
+border-style:solid;
+border-top-width:thin;
+border-right-width:medium;
+border-bottom-width:thick;
+border-left-width:10px
+}
+</style>
+</head>
+
+<body>
+<p>Texto con bordes de diferentes espesores</p>
+</body>
+</html>	

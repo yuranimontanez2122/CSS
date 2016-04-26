@@ -1,0 +1,11 @@
+<div class='example'>
+  <div id='padding-box'>
+    Padding Box
+  </div>
+  <div id='border-box'>
+    Border Box
+  </div>
+  <div id='content-box'>
+    Content Box
+  </div>
+</div>

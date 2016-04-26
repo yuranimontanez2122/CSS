@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+h2{background:red}
+</style>
+</head>
+
+<body>
+<h2>El fondo del título es rojo.</h2>
+</body>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<p {
+   border: 5px navy;
+   border-style: dotted double;
+   margin: 2em;
+   padding: 2em;
+   background: #F8D575;>
+</p>
+}
+<p
+.border-box { background-clip: border-box; }
+.padding-box { background-clip: padding-box; }
+.content-box { background-clip: content-box; }
+</p>
+
+</body>
+</html>

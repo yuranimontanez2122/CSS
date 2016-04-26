@@ -1,0 +1,30 @@
+<html>
+<head>
+<style type="text/css">
+p
+{
+border-style: hidden
+}
+</style>
+</head>
+
+<body>
+<p>Texto con bordes ocultos</p>
+</body>
+</html>	
+
+
+<html>
+<head>
+<style type="text/css">
+p
+{
+border-style: groove
+}
+</style>
+</head>
+
+<body>
+<p>Texto con la sombra del borde</p>
+</body>
+</html>	
