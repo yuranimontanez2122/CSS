@@ -1,0 +1,35 @@
+<head>
+    <style>
+        .myMarquee {
+            border: 1px dotted #000000;
+            width: 200px;
+            height: 60px;
+            text-align: right;
+            -webkit-marquee-direction: forwards;
+            -webkit-marquee-increment: 6px;
+            -webkit-marquee-repetition: infinite;
+            -webkit-marquee-speed: fast;
+        }
+
+        .scroll {
+            -webkit-marquee-style: scroll;
+        }
+
+        .slide {
+            -webkit-marquee-style: slide;
+        }
+    </style>
+</head>
+<body>
+    <marquee class="myMarquee scroll">
+        scoll marquee<br />
+        scoll marquee<br />
+        scoll marquee
+    </marquee>
+
+    <marquee class="myMarquee slide">
+        slide marquee<br />
+        slide marquee<br />
+        slide marquee
+    </marquee>
+</body>

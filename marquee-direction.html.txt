@@ -1,0 +1,22 @@
+<head>
+    <style>
+        #myMarquee {
+            border: 1px dotted #000000;
+            width: 200px;
+            height: 60px;
+            text-align: right;
+            -webkit-marquee-direction: forwards;
+            -webkit-marquee-increment: 1px;
+            -webkit-marquee-repetition: infinite;
+            -webkit-marquee-speed: fast;
+            -webkit-marquee-style: scroll;
+        }
+    </style>
+</head>
+<body>
+    <marquee id="myMarquee">
+        first line<br />
+        second line<br />
+        third line
+    </marquee>
+</body>

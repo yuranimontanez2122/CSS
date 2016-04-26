@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1
+{
+rotation-point:50% 50%;
+rotation:180deg;
+}
+</style>
+</head>
+<body>
+
+<h1>Rotation effect</h1>
+
+<p><b>Note:</b> None of the major browsers support the rotation-point or rotation properties.</p>
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#div1 {
+    font-stretch: condensed;
+}
+
+#div2 {
+    font-stretch: expanded;
+}
+</style>
+</head>
+<body>
+
+<p><b>Note:</b> No browsers support the font-stretch property.</p>
+
+<div>
+Some normal text in a div element.
+</div>
+
+<div id="div1">
+Some condensed text in a div element.
+</div>
+
+<div id="div2">
+Some expanded text in a div element.
+</div>
+
+</body>
+</html>

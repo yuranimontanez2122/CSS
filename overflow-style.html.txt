@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+div {
+    width: 150px;
+    height: 20px;
+    border: thin solid black;
+    overflow: hidden;
+    overflow-style: marquee,panner;
+}
+</style>
+</head>
+<body>
+
+<div>
+In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.
+'Whenever you feel like criticizing anyone,' he told me, 'just remember that all the people in this world haven't had the advantages that you've had.' 
+</div>
+
+<p>The overflow-style property specifies the preferred scrolling method for elements that overflow.</p>
+<p><b>Note:</b> None of the major browsers support the overflow-style property.</p>
+
+</body>
+</html>
